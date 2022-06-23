@@ -174,13 +174,3 @@ object List:
   println(
     "Running smoothly"
   )
-  //var List1: List[Int] = Nil//List(4, 2, 6, 1, 5, 3)
-  //println(List1.quickSort())
-  // var LOL2: List[List[Int]] = List(List(1, 2), List(3, 4), List(5,6))
-  // println(List1.quickSort((a: Int, b: Int) =>
-  //   if a > b then Compared.Gt
-  //   else if a < b then Compared.Lt
-  //   else Compared.Eq
-  // ))
-  // println(product(LOL2))
-  // println(List1.tails)
